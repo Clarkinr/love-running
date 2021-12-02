@@ -320,10 +320,10 @@ footer {
     .left-about-heading p, .right-about-heading p {
         text-align: center;
         padding: 20px;
-
+    }
         #photos {
             column-count: 3;
-        }
+    }
 }
 
 @media screen and (max-width: 800px) {
